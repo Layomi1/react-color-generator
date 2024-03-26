@@ -63,7 +63,7 @@ const RandomColor = () => {
           alignItems: "center",
           justifyContent: "center",
           color: "FFF",
-          fontSize: "60px",
+          fontSize: "50px",
           marginTop: "50px",
           flexDirection: "column",
         }}
