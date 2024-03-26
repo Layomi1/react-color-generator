@@ -1,0 +1,15 @@
+.container {
+  width: 100vw;
+  height: 100vh;
+  background: color(srgb red green blue);
+  text-align: center;
+}
+
+button {
+  font-size: 16px;
+  padding: 10px;
+}
+
+.rgb {
+  margin: 0 8px;
+}
